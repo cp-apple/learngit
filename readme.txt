@@ -18,3 +18,4 @@ I created a pointer.  ----cp
 
 Creating a new branch is quick and simple.
 分支管理策略，又是dev分支
+//哎哎，这里有个bug呢！当当当！改了它！！
