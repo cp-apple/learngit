@@ -24,4 +24,8 @@ Creating a new branch is quick and simple.
 
 我还未完成，等你修复bug再来完成。。。
 
+
 //stupid,now I'm a big bug.
+
+//我在dev分支上工作。。working hard，这时候我接到一个bug，= =，要马上修复。。。。哎= =，我还没在dev上工作完呢，还不能commit
+
