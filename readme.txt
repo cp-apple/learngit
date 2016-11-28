@@ -23,3 +23,5 @@ Creating a new branch is quick and simple.
 //好的，我现在就在改这个bug了！ 叮！好了！
 
 我还未完成，等你修复bug再来完成。。。
+
+//stupid,now I'm a big bug.
