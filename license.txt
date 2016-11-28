@@ -11,3 +11,4 @@ Princess,eversleeping~
 
 summary：诶！果然冲突了呢！先git branch --set-upstream dev origin/dev链接远程的dev分支，然后git pull！咻——的一下就好啦！
 或说小伙伴咋的跑下面来了，他先提交啊，那我把你移上去~
+aha，我在我自己的computer上面杀死了my partner.why?因为不需要他了，so sad!- -.
